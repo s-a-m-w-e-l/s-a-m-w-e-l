@@ -11,13 +11,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   <p>
-    I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+  I'm an Android app developer with a passion for creating visually appealing and user-friendly apps.
   </p>
 
-  - 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
-  - 📚 I’m currently learning about Frontend and Backend technologies.
-  - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-  
+  - 👨‍💻 I'm currently working on app development technologies like Flutter.
+  - 📚 I'm currently learning front-end and back-end technologies and Flutter.
+  - 🎯 My future goals: Learn more about web technologies - create amazing educational apps.
   - 📫 Social links
   <p>
     <a href="https://www.facebook.com/samwel000"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
