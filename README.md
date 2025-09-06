@@ -1,16 +1,42 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <img align="right" src="https://raw.githubusercontent.com/s-a-m-w-e-l/s-a-m-w-e-l/main/github-profile.png" width="30%">
+  <h1>
+    Hi There I'm Samwel Youssef 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h1>
+  <p>
+    I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+  </p>
 
-<!--
-**s-a-m-w-e-l/s-a-m-w-e-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
+  - 📚 I’m currently learning about Frontend and Backend technologies.
+  - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+  
+  - 📫 Social links
+  <p>
+    <a href="https://www.facebook.com/samwel000"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.linkedin.com/in/s-a-m-w-e-l"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/s_a_m_w_e_l"><img src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </p>
 
-Here are some ideas to get you started:
+  <h3>🛠 &nbsp;Technologies that I work with</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS">
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript">
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-m-w-e-l&layout=compact" alt="Top Langs">
+  <br>
+  <a href="https://komarev.com/ghpvc/?username=s-a-m-w-e-l&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=s-a-m-w-e-l&style=for-the-badge">
+  </a>
+</body>
+</html>
